@@ -1,0 +1,1 @@
+# logrotatetoawsS3
